@@ -1,0 +1,6 @@
+// アクセシビリティ
+https://support.apple.com/ja-jp/guide/ipad/ipad006a7eaf/ipados
+ホームボタンまたはトップボタンの設定を調整する
+指を当てて開く: Touch IDを搭載したiPadでは、指をボタンに当ててiPadのロックを解除できます。
+
+Accessibility -> Home Button -> Rest finger to Openにチェック
