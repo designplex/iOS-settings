@@ -7,6 +7,7 @@
 Accessibility -> Home Button -> Rest finger to Openにチェック
 
 // ホーム画面に戻りやすくする
+iPhoneやiPadのホームボタンをなるべく使わないように。
 Accessibility -> Touch -> AssistiveTouchをオン
 customize Top Level Menu でHomeだけを作成
 ※ Idle Opacityで透明度を調整
